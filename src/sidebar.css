@@ -1,0 +1,20 @@
+.sidebar{
+    flex:0.3;
+    max-width: 300px;
+    padding-right: 20px;
+}
+
+
+.sidebar_compose{
+    margin: 15px 0px 15px 10px !important;
+    color: gray !important;
+    text-transform: capitalize !important;
+    padding: 15px !important;
+    border-radius: 30px !important;
+    box-shadow: 0px 2px 5px -2px rgb(0,0,0,0.75);
+}
+
+.sidebar_footer{
+    display: flex;
+    justify-content: center;
+}
